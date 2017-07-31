@@ -3,6 +3,8 @@
 The files in this Repo analyse the UCI HAR dataset as required for the assignment.
 
 It contains the following files:
+
+
 Codebook.txt - explains the variables and how they have been transformed
 
 features2.txt - gives a summary of all column names in the dataset
